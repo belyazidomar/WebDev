@@ -20,10 +20,10 @@ export default function Header() {
         </div>
         <ul>
             <li>
-                <a href="https://belyazidomar.github.io/WebDev/">Home</a>
+                <a href="https://belyazidomar.github.io/WebDev">Home</a>
             </li>
             <li>
-                <a href="../pages/Formulaire">Formulaire</a>
+                <a href="https://belyazidomar.github.io/WebDev/#/Formulaire">Formulaire</a>
             </li>
         </ul>
         </nav>
