@@ -1,6 +1,5 @@
 import GitHub from "./GitHub.jpg"
 import Linkedin from "./Linkedin.png"
-import Formulaire from "../pages/Formulaire"
 
 export default function Header() {
     return (
